@@ -1,7 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+//Styles
+import './index.scss';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+//Main Component
 import App from './App';
+//Test
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
