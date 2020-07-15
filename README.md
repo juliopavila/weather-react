@@ -3,7 +3,9 @@ El proyecto es creado usando reate-react-app
 ## Antes de ejecutar
 
 Se debe crear una archivo .env y agregar las siguientes variables (Esto normalmente no se sube es solo para efectos de este challenge):
+<br>
 -REACT_APP_API_URL=https://api.openweathermap.org/data/2.5/
+<br>
 -REACT_APP_API_KEY=02cdbd8bc062c023afdc733a5ceb7cfd
 
 ## Acerca del proyecto
